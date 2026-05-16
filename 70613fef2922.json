@@ -1,0 +1,292 @@
+{
+  "name": "CosmoModpack",
+  "game_version": null,
+  "created_by": "Cosmolego527",
+  "mods": [
+    {
+      "name": "AiACard",
+      "version": "0.1.2",
+      "source": null,
+      "hash": "234ba2bd3d8a570f0acedf35d509e0d834ed944be36c53f9c3d32a267cddb724",
+      "files": [
+        "STS2_AiACard\\jpg",
+        "STS2_AiACard\\mod_manifest.json",
+        "STS2_AiACard\\STS2_AiACard.dll",
+        "STS2_AiACard\\STS2_AiACard.pck",
+        "STS2_AiACard\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "STS2_AiACard",
+      "mod_id": "STS2_AiACard",
+      "enabled": true,
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/AiACard_v0.1.2.zip",
+      "bundle_sha256": "e4a98645f56aa555e61bea5d64c778b03bca73eec3b6934b1a7400513fdc5797"
+    },
+    {
+      "name": "Ancients Awakened",
+      "version": "v1.2.2",
+      "source": null,
+      "hash": "5ac0a6be93fe3274bc86a7bcb65cced3a3b04c3578950fd26e5e8c2bbeddf226",
+      "files": [
+        "AncientsAwakened\\AncientsAwakened.dll",
+        "AncientsAwakened\\AncientsAwakened.json",
+        "AncientsAwakened\\AncientsAwakened.pck",
+        "AncientsAwakened\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "AncientsAwakened",
+      "mod_id": "AncientsAwakened",
+      "enabled": true,
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/Ancients_Awakened_v1.2.2.zip",
+      "bundle_sha256": "0ef41ae9eb160a5b64eecebb6286d463181920feb4183b52fc8a6da5886968fb"
+    },
+    {
+      "name": "Aphrodite Ancient",
+      "version": "v0.1.6",
+      "source": "github:JohnnyBazooka89/StS2ModAphroditeAncient",
+      "hash": "16ed3a3487ab7eea4557495b8f74780a7edf2d764f708db661001af77d1cf99e",
+      "files": [
+        "AphroditeAncient\\AphroditeAncient.dll",
+        "AphroditeAncient\\AphroditeAncient.json",
+        "AphroditeAncient\\AphroditeAncient.pck",
+        "AphroditeAncient\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "AphroditeAncient",
+      "mod_id": "AphroditeAncient",
+      "enabled": true,
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/Aphrodite_Ancient_v0.1.6.zip",
+      "bundle_sha256": "33f29730dbdda209e5c90c4e31d4afb870e5f397f01259cb6c1b26655aa1e92b"
+    },
+    {
+      "name": "BaseLib",
+      "version": "v3.1.3",
+      "source": null,
+      "hash": "9e950d70598706e8cc47d05a1f64bb2836b4c1bdd8d1729a1e278c268e148829",
+      "files": [
+        "BaseLib\\BaseLib.dll",
+        "BaseLib\\BaseLib.json",
+        "BaseLib\\BaseLib.pck",
+        "BaseLib\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "BaseLib",
+      "mod_id": "BaseLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.3.zip",
+      "bundle_sha256": "5a828eedce144d3efcf0ffa59392799057bd7498f6d45df8ce429936e3165282"
+    },
+    {
+      "name": "BetterSpire2",
+      "version": "v1.82.2",
+      "source": null,
+      "hash": "6457cc7006919376b4f435777b339ff9a7286f91dafc0a696c6215365d14caa9",
+      "files": [
+        "BetterSpire2\\BetterSpire2.dll",
+        "BetterSpire2\\BetterSpire2.json",
+        "BetterSpire2\\BetterSpire2_localization\\deu.lang",
+        "BetterSpire2\\BetterSpire2_localization\\eng.lang",
+        "BetterSpire2\\BetterSpire2_localization\\esp.lang",
+        "BetterSpire2\\BetterSpire2_localization\\fra.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ita.lang",
+        "BetterSpire2\\BetterSpire2_localization\\jpn.lang",
+        "BetterSpire2\\BetterSpire2_localization\\kor.lang",
+        "BetterSpire2\\BetterSpire2_localization\\pol.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ptb.lang",
+        "BetterSpire2\\BetterSpire2_localization\\rus.lang",
+        "BetterSpire2\\BetterSpire2_localization\\spa.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tha.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tur.lang",
+        "BetterSpire2\\BetterSpire2_localization\\zhs.lang",
+        "BetterSpire2\\BetterSpire2_localization\\__folder_managed_by_vortex",
+        "BetterSpire2\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "BetterSpire2",
+      "mod_id": "BetterSpire2",
+      "enabled": true,
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.2.zip",
+      "bundle_sha256": "a4025ced3b54f8f4bdabedd11eeee99fe1a74225d5fe151d6f2cbeb86177504e"
+    },
+    {
+      "name": "ModListSorter",
+      "version": "v0.1",
+      "source": null,
+      "hash": "0a4c19e88aec6e2e2022121b2da3700ef877c6412bb64d39f525f6a60c5872b2",
+      "files": [
+        "ModListSorter\\ModListSorter.dll",
+        "ModListSorter\\ModListSorter.json"
+      ],
+      "folder_name": "ModListSorter",
+      "mod_id": "ModListSorter",
+      "enabled": true,
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/ModListSorter_v0.1.zip",
+      "bundle_sha256": "a87bd17dd48afd6c2dd8625e2ef60d05a83bc9a6ef99910ed17e429c61c16860"
+    },
+    {
+      "name": "More Upgrades",
+      "version": "v1.1.0",
+      "source": null,
+      "hash": "1161d15b41ed09e0b5682b563546dde902f75d647cb1037835ca6298b4fbca47",
+      "files": [
+        "MoreUpgrades\\MoreUpgrades.cfg",
+        "MoreUpgrades\\MoreUpgrades.dll",
+        "MoreUpgrades\\MoreUpgrades.json",
+        "MoreUpgrades\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "MoreUpgrades",
+      "mod_id": "MoreUpgrades",
+      "enabled": true,
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/More_Upgrades_v1.1.0.zip",
+      "bundle_sha256": "d97c6ef9bda085d8ae7dd377e1a406123d657a3ee8697e371da3d8156ce11162"
+    },
+    {
+      "name": "PlayerColors",
+      "version": "v1.0.5",
+      "source": null,
+      "hash": "c8c8c016dcdfba09538bb8a173cac4e6b74149fe27538efd2d300057bdda1d9a",
+      "files": [
+        "PlayerColors\\PlayerColors.dll",
+        "PlayerColors\\PlayerColors.json",
+        "PlayerColors\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "PlayerColors",
+      "mod_id": "PlayerColors",
+      "enabled": true,
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/PlayerColors_v1.0.5.zip",
+      "bundle_sha256": "2d8871a6961fedd6bcf63601dbd858bd3f544e9f139df4d2753962a1b8cdc973"
+    },
+    {
+      "name": "Poseidon Ancient",
+      "version": "v0.1.5",
+      "source": "github:JohnnyBazooka89/StS2ModPoseidonAncient",
+      "hash": "aadd16d85185c9dd0cd8c4f2631ef68e4df645ce28147fba3917874c0b4999e4",
+      "files": [
+        "PoseidonAncient\\PoseidonAncient.dll",
+        "PoseidonAncient\\PoseidonAncient.json",
+        "PoseidonAncient\\PoseidonAncient.pck",
+        "PoseidonAncient\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "PoseidonAncient",
+      "mod_id": "PoseidonAncient",
+      "enabled": true,
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/Poseidon_Ancient_v0.1.5.zip",
+      "bundle_sha256": "1379ff4432fd6759eac742e459efd59cdf0789eb73a83b31f5d6fa3c38415e94"
+    },
+    {
+      "name": "RelicTracker",
+      "version": "v1.15",
+      "source": null,
+      "hash": "eba1f8491f3e6912aa56d9f67bc7766c6426aa6a2ad95c3f2f27b156ab39b55d",
+      "files": [
+        "RelicTracker\\Localization\\deu.loc",
+        "RelicTracker\\Localization\\eng.loc",
+        "RelicTracker\\Localization\\esp.loc",
+        "RelicTracker\\Localization\\fra.loc",
+        "RelicTracker\\Localization\\ita.loc",
+        "RelicTracker\\Localization\\jpn.loc",
+        "RelicTracker\\Localization\\kor.loc",
+        "RelicTracker\\Localization\\pol.loc",
+        "RelicTracker\\Localization\\ptb.loc",
+        "RelicTracker\\Localization\\rus.loc",
+        "RelicTracker\\Localization\\spa.loc",
+        "RelicTracker\\Localization\\tha.loc",
+        "RelicTracker\\Localization\\tur.loc",
+        "RelicTracker\\Localization\\zhs.loc",
+        "RelicTracker\\Localization\\__folder_managed_by_vortex",
+        "RelicTracker\\RelicTracker.dll",
+        "RelicTracker\\RelicTracker.json",
+        "RelicTracker\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "RelicTracker",
+      "mod_id": "RelicTracker",
+      "enabled": true,
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/RelicTracker_v1.15.zip",
+      "bundle_sha256": "e83e0b5e26e8d62d12477bd6cc9eb51ad46ecc2ed7885adda06ff7e87c21dc8c"
+    },
+    {
+      "name": "RitsuLib",
+      "version": "0.2.31",
+      "source": "github:BAKAOLC/STS2-RitsuLib",
+      "hash": "833be04dcf60f50dacc6d6bc98f67ca0c4f6747b46cbc0ee2b439a87c833c13e",
+      "files": [
+        "STS2-RitsuLib\\compat-target.txt",
+        "STS2-RitsuLib\\mod_manifest.json",
+        "STS2-RitsuLib\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "STS2-RitsuLib",
+      "mod_id": "STS2-RitsuLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.2.31.zip",
+      "bundle_sha256": "a5c9eb869e7582b3ff6b750daf7a8a4e3a5e9af947b178cf2581deedab1b25be"
+    },
+    {
+      "name": "Skip Vakuu Boon",
+      "version": "0.1.0",
+      "source": null,
+      "hash": "c4026f40b8fdcfb7c1284eca4b73a54a71cc00c5233c4a8c73f68c78bf3534d0",
+      "files": [
+        "codex.skip_vakuu\\codex.skip_vakuu.dll",
+        "codex.skip_vakuu\\codex.skip_vakuu.json",
+        "codex.skip_vakuu\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "codex.skip_vakuu",
+      "mod_id": "codex.skip_vakuu",
+      "enabled": true,
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/Skip_Vakuu_Boon_v0.1.0.zip",
+      "bundle_sha256": "e9c688996e4e529b4bbe25696177636183d96daacfc43800852758c39d3eec86"
+    },
+    {
+      "name": "Unified Save Path",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "08b7cbb36c7b48820e44c060d2dc6b6c49edbb945c7cb1e8f7a44866f7c650cc",
+      "files": [
+        "UnifiedSavePath\\UnifiedSavePath.dll",
+        "UnifiedSavePath\\UnifiedSavePath.json",
+        "UnifiedSavePath\\UnifiedSavePath.pck",
+        "UnifiedSavePath\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "UnifiedSavePath",
+      "mod_id": "UnifiedSavePath",
+      "enabled": true,
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0.zip",
+      "bundle_sha256": "05989572a5f84e7ac737e356461f6c2e3a127f23cb40e389eea9759ce51f18ed"
+    },
+    {
+      "name": "更多联机卡(MoreMultiplayerCard)",
+      "version": "1.05.3Beta4.24",
+      "source": null,
+      "hash": "a44c91482f5ea582f357999687ae467319140ec547d3647de5cfa5e95562bdab",
+      "files": [
+        "MoreMultiplayerCard\\MoreMultiplayerCard.dll",
+        "MoreMultiplayerCard\\MoreMultiplayerCard.json",
+        "MoreMultiplayerCard\\MoreMultiplayerCard.pck",
+        "MoreMultiplayerCard\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "MoreMultiplayerCard",
+      "mod_id": "MoreMultiplayerCard",
+      "enabled": true,
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/______MoreMultiplayerCard__v1.05.3Beta4.24.zip",
+      "bundle_sha256": "87d9e34f2910a2f0ca60f5a2d2e70a9d726ce31902441ba7b112f658049170c2"
+    },
+    {
+      "name": "皮皮配置: ModConfig",
+      "version": "0.2.3",
+      "source": null,
+      "hash": "8447e852546eb29bd058d9c49c1def0ef09f312d3e7073c7c7cb1586a5edbf8f",
+      "files": [
+        "ModConfig\\ModConfig.dll",
+        "ModConfig\\ModConfig.json",
+        "ModConfig\\ModConfig.pck",
+        "ModConfig\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "ModConfig",
+      "mod_id": "ModConfig",
+      "enabled": true,
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/______ModConfig_v0.2.3.zip",
+      "bundle_sha256": "c1648daea6141bc03d30da391b01fdad2625da859a076bc4a18b9b04b1924baa"
+    }
+  ],
+  "created_at": "2026-05-16T00:13:22.502464100Z",
+  "updated_at": "2026-05-16T00:13:28.183623400Z",
+  "public": false
+}
