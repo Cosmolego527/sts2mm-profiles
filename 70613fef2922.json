@@ -16,8 +16,8 @@
       "folder_name": "AncientsAwakened",
       "mod_id": "AncientsAwakened",
       "enabled": true,
-      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/Ancients_Awakened_v1.2.5_68ee57c3.zip",
-      "bundle_sha256": "68ee57c36f2d27eee4e370b9cda5a9a7ff2d00602b331d1e025ef570be51a517"
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/Ancients_Awakened_v1.2.5_cb1636d6.zip",
+      "bundle_sha256": "cb1636d684c71379d351dc3b85eb46cde9407669678b500dfcee9ea3dc2f8742"
     },
     {
       "name": "BaseLib",
@@ -32,8 +32,8 @@
       "folder_name": "BaseLib",
       "mod_id": "BaseLib",
       "enabled": true,
-      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/BaseLib_v3.2.1_95949bb8.zip",
-      "bundle_sha256": "95949bb8fd97cd0c1085ff869142e14f0ce47cc553d50d9df81b1296578ee153"
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/BaseLib_v3.2.1_d401af6f.zip",
+      "bundle_sha256": "d401af6f0caca6a70b256243f8849757ce2ebcaca8049acf954d856b97cf0469"
     },
     {
       "name": "BetterSpire2",
@@ -62,8 +62,8 @@
       "folder_name": "BetterSpire2",
       "mod_id": "BetterSpire2",
       "enabled": true,
-      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.83.1_08ebbdcd.zip",
-      "bundle_sha256": "08ebbdcd4c3b33c98754d6c623f85bbb987aead5f81afd9f4d215af7ac9b1ef4"
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.83.1_e67aefcd.zip",
+      "bundle_sha256": "e67aefcdcf5d02d6f9b1ad7510f99e04dba12b3a872d0eeb28a566a8877839ad"
     },
     {
       "name": "BoosterPackMod",
@@ -78,8 +78,8 @@
       "folder_name": "BoosterPackMod",
       "mod_id": "BoosterPackMod",
       "enabled": true,
-      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/BoosterPackMod_v0.0.9_af3511e3.zip",
-      "bundle_sha256": "af3511e39912de3f7dc3f96a562c090d12bd52c991f238540a3f3ade92427328"
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/BoosterPackMod_v0.0.9_f2b2ca9f.zip",
+      "bundle_sha256": "f2b2ca9f5d65abf119af426c6a6f24c84af55e7b0f46e3e338901aa924fc80ad"
     },
     {
       "name": "GiveGold",
@@ -94,8 +94,8 @@
       "folder_name": "GiveGold",
       "mod_id": "GiveGold",
       "enabled": true,
-      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/GiveGold_v1.2.1_d9cb0096.zip",
-      "bundle_sha256": "d9cb009613981876826863bf035fc93e943275173bfa19e2fcb76d8326e13ab9"
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/GiveGold_v1.2.1_b88e30c4.zip",
+      "bundle_sha256": "b88e30c42c4a3193d76eb6fabef53f5fd7b6277f6255a4c8276dba7117850791"
     },
     {
       "name": "ModListSorter",
@@ -109,8 +109,8 @@
       "folder_name": "ModListSorter",
       "mod_id": "ModListSorter",
       "enabled": true,
-      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/ModListSorter_v0.1_fc36b148.zip",
-      "bundle_sha256": "fc36b14824c2d7d9787c7c1d541a5696aac414be99920b44bf89b0a3e5236ecf"
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/ModListSorter_v0.1_43eb8511.zip",
+      "bundle_sha256": "43eb8511783c041a2e4f697b52b761469f74df04131c1a920f4a5b0644f104ed"
     },
     {
       "name": "More Upgrades",
@@ -126,8 +126,8 @@
       "folder_name": "MoreUpgrades",
       "mod_id": "MoreUpgrades",
       "enabled": true,
-      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/More_Upgrades_v1.1.0_7feb4485.zip",
-      "bundle_sha256": "7feb44859b417ab66e6515226764363bf5f239844653295cb581d6527e091ce7"
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/More_Upgrades_v1.1.0_b636caf3.zip",
+      "bundle_sha256": "b636caf38c5de818c1981af91e3a5ba44ec100d2c9e78a675bbefbd5deb40b8d"
     },
     {
       "name": "PlayerColors",
@@ -142,8 +142,8 @@
       "folder_name": "PlayerColors",
       "mod_id": "PlayerColors",
       "enabled": true,
-      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/PlayerColors_v1.0.5_14da2056.zip",
-      "bundle_sha256": "14da205668b0002b83188d5a3f43caad8f0d5e59e790c6bbc4a5bdfd803d5d43"
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/PlayerColors_v1.0.5_3b2aae45.zip",
+      "bundle_sha256": "3b2aae45890cc91e4833e0df73d16ed231879365396be7a9976f224e45ce2e8d"
     },
     {
       "name": "restsite_card_shared",
@@ -158,8 +158,8 @@
       "folder_name": "赠牌mod",
       "mod_id": "restsite_card_shared",
       "enabled": true,
-      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/restsite_card_shared_v106.1_9fb68397.zip",
-      "bundle_sha256": "9fb683977405331d3faceb81be4ccef8ca19e4bea7bbef323130ae2ff5dfe329"
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/restsite_card_shared_v106.1_e7dc552d.zip",
+      "bundle_sha256": "e7dc552dcbda85b39f320dd40835a6dff2fe8a5cffe801e42c0fe01eacd1833e"
     },
     {
       "name": "RitsuLib",
@@ -176,8 +176,8 @@
       "folder_name": "STS2-RitsuLib",
       "mod_id": "STS2-RitsuLib",
       "enabled": true,
-      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.4.21_31ba83a9.zip",
-      "bundle_sha256": "31ba83a9a713603ac66f1047161bd8383b064982e1aed775ef46757dc293b5db"
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.4.21_9c021816.zip",
+      "bundle_sha256": "9c021816e08177c89add366365e3e54553b9cb130bbb1ec85b1a1af6c68f384b"
     },
     {
       "name": "Skip Vakuu Boon",
@@ -192,8 +192,8 @@
       "folder_name": "codex.skip_vakuu",
       "mod_id": "codex.skip_vakuu",
       "enabled": true,
-      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/Skip_Vakuu_Boon_v0.1.0_bb6b5b65.zip",
-      "bundle_sha256": "bb6b5b6596b84c9b5cc7c549e72d086d3455cfbd62e7b1a6e1f872ecbca4edd2"
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/Skip_Vakuu_Boon_v0.1.0_f4056d3f.zip",
+      "bundle_sha256": "f4056d3f87a36298c5f6da23df79d15cfc2fef852cebd81d05eed5350e709ca7"
     },
     {
       "name": "Unified Save Path",
@@ -209,8 +209,8 @@
       "folder_name": "UnifiedSavePath",
       "mod_id": "UnifiedSavePath",
       "enabled": true,
-      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_a0559aa4.zip",
-      "bundle_sha256": "a0559aa461be2014e4d3d841121a0ff71acd66340baa2f8156468848b85da9dd"
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_bfefaf20.zip",
+      "bundle_sha256": "bfefaf2080ac88ced8067a2f6eed21634235dc877c5c71dc19f2b6d014a21cec"
     },
     {
       "name": "皮皮配置: ModConfig",
@@ -226,8 +226,8 @@
       "folder_name": "ModConfig",
       "mod_id": "ModConfig",
       "enabled": true,
-      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_1b386509.zip",
-      "bundle_sha256": "1b38650956f41e74f09b730a0aa21cb90fa6b2ffe2a787c74524a25caf5b2b5c"
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_403ff772.zip",
+      "bundle_sha256": "403ff772d8e7fbfc3791ca200447f99c580da4b613b0041b627a9182f3da134c"
     },
     {
       "name": "Relic Upgrades",
@@ -242,8 +242,8 @@
       "folder_name": "RelicUpgrades",
       "mod_id": "RelicUpgrades",
       "enabled": true,
-      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/Relic_Upgrades_v1.0.3_22156452.zip",
-      "bundle_sha256": "2215645254c39aa0e228eb956e4734fec9d3dd22cc4df12c9afcdbb108da3fff"
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/Relic_Upgrades_v1.0.3_44d8b4ec.zip",
+      "bundle_sha256": "44d8b4ec93c77ee6dae04a4530e6a53665d82be8cd52c1f673db182eb8f42774"
     },
     {
       "name": "Blessings",
@@ -259,8 +259,8 @@
       "folder_name": "Blessings",
       "mod_id": "Blessings",
       "enabled": true,
-      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/Blessings_v1.0.1_e3b57854.zip",
-      "bundle_sha256": "e3b578541d4cca9146d643dadee635b570afbdf1ae9d9cafb6548153da840123"
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/Blessings_v1.0.1_f6032c0b.zip",
+      "bundle_sha256": "f6032c0bc8a755bcb9a888fd5898371048b6de362d200698dca6f2d78814a7c8"
     },
     {
       "name": "Calypso's Happy Hour / 卡里普索的欢乐时光",
@@ -275,8 +275,8 @@
       "folder_name": "CalypsosHappyHour",
       "mod_id": "CalypsosHappyHour",
       "enabled": true,
-      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/Calypso.s_Happy_Hour___._v1.2.0_6c718f54.zip",
-      "bundle_sha256": "6c718f54afa085d422ac97b59a1169e997ab156a0069731e70321647704fde32"
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/Calypso.s_Happy_Hour___._v1.2.0_92efdbd2.zip",
+      "bundle_sha256": "92efdbd27ae939f1197a9be568c95926d714648a0359d2282727c11c7ae43143"
     },
     {
       "name": "Hades Ancients",
@@ -292,8 +292,8 @@
       "folder_name": "HadesAncients",
       "mod_id": "HadesAncients",
       "enabled": true,
-      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/Hades_Ancients_v0.1.1_2129ef75.zip",
-      "bundle_sha256": "2129ef75ee86b38fe3589623265fda5109ef54480ad695b54192ac73dacd4ab7"
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/Hades_Ancients_v0.1.1_c19e2223.zip",
+      "bundle_sha256": "c19e2223e5d893254c40b5e0dfcc918b5d7ea3b9d7b678f8a06c54587701f753"
     },
     {
       "name": "RelicTracker",
@@ -307,8 +307,8 @@
       "folder_name": "RelicTracker",
       "mod_id": "RelicTracker",
       "enabled": true,
-      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/RelicTracker_v1.18_63aa7528.zip",
-      "bundle_sha256": "63aa752835523a6cd2ebfe2d719b67f7c16bb135516a911055d3b8b01609eed1"
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/RelicTracker_v1.18_059e1256.zip",
+      "bundle_sha256": "059e125624d01fc0f840e2f1983959104d6dba7832a8b3fe078c441f2f148bf3"
     },
     {
       "name": "Mango Content",
@@ -323,8 +323,8 @@
       "folder_name": "MangoContent",
       "mod_id": "MangoContent",
       "enabled": true,
-      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/Mango_Content_v1.0.0_a20d3267.zip",
-      "bundle_sha256": "a20d3267192df490a1fa60e0d56dc58b68a664fc8891fa13bf73ee684ef04e99"
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/Mango_Content_v1.0.0_eba00b26.zip",
+      "bundle_sha256": "eba00b26fd2c7c5e340d261caeccac7d411e4b02b29d4968c1d4cbfe382446ae"
     },
     {
       "name": "Do a barrel roll",
@@ -338,11 +338,27 @@
       "folder_name": "sts2-backflip",
       "mod_id": "sts2-backflip",
       "enabled": true,
-      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/Do_a_barrel_roll_v1.0.4_e51de7d5.zip",
-      "bundle_sha256": "e51de7d56754be16d905a96ce6ebb23cb0335c0d81cb53fbad78b5b45614f1a0"
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/Do_a_barrel_roll_v1.0.4_0351a576.zip",
+      "bundle_sha256": "0351a57666b47d78e15403cc5390c169f6595811366ad219db5ee8ac4e874ac7"
+    },
+    {
+      "name": "DefectOrbs",
+      "version": "v0.1.0",
+      "source": null,
+      "hash": "3fdf1f9c7bee94f6b534aa6659cab136c6d20526d3c6a599bbd1d882cb299d54",
+      "files": [
+        "DefectOrbs\\DefectOrbs.dll",
+        "DefectOrbs\\DefectOrbs.json",
+        "DefectOrbs\\DefectOrbs.pck"
+      ],
+      "folder_name": "DefectOrbs",
+      "mod_id": "DefectOrbs",
+      "enabled": true,
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/DefectOrbs_v0.1.0_1ae6d7eb.zip",
+      "bundle_sha256": "1ae6d7ebf704af16aabc26d06580e1847186f86abe0a3c36efcf6e0ebb73d74b"
     }
   ],
   "created_at": "2026-05-16T00:13:22.502464100Z",
-  "updated_at": "2026-06-13T23:11:57.578486700Z",
+  "updated_at": "2026-06-14T01:56:57.057815800Z",
   "public": false
 }
