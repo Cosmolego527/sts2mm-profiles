@@ -164,7 +164,7 @@
     },
     {
       "name": "RitsuLib",
-      "version": "0.4.21",
+      "version": "0.4.24",
       "source": "github:BAKAOLC/STS2-RitsuLib",
       "hash": "b786107f9561dfedaab65ab6095c244bf468fbe9a141b534c6ad4c8dba100351",
       "files": [
@@ -180,8 +180,8 @@
       "folder_name": "STS2-RitsuLib",
       "mod_id": "STS2-RitsuLib",
       "enabled": true,
-      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.4.21_6120875a.zip",
-      "bundle_sha256": "6120875a1bb09a91a54b284bbd609493c45aedf7ecc03787193b911c3b17665e"
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.4.24_821a0e90.zip",
+      "bundle_sha256": "821a0e90b8d34a1f3ab6a0eb6dd18e853e74277d82d7188ca3ab164da8284b57"
     },
     {
       "name": "Skip Vakuu Boon",
@@ -282,8 +282,8 @@
       "folder_name": "CalypsosHappyHour",
       "mod_id": "CalypsosHappyHour",
       "enabled": true,
-      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/Calypso_s_Happy_Hour___._v1.2.0_ddd371c5.zip",
-      "bundle_sha256": "ddd371c5967874aca2ca20b73ce943294206559c2584c1baa49918c982df5ec3"
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/Calypso_s_Happy_Hour___._v1.2.0_74c9c013.zip",
+      "bundle_sha256": "74c9c0133c2e2cd3e39a4f14e30ef1cf29cbee604c6159f22289c123e2e00ab4"
     },
     {
       "name": "Hades Ancients",
@@ -308,14 +308,28 @@
       "source": null,
       "hash": "c7194344ce388f377ac91ef07585c416808f496f56d7c607ecf6a29145c82658",
       "files": [
+        "RelicTracker\\Localization\\deu.loc",
+        "RelicTracker\\Localization\\eng.loc",
+        "RelicTracker\\Localization\\esp.loc",
+        "RelicTracker\\Localization\\fra.loc",
+        "RelicTracker\\Localization\\ita.loc",
+        "RelicTracker\\Localization\\jpn.loc",
+        "RelicTracker\\Localization\\kor.loc",
+        "RelicTracker\\Localization\\pol.loc",
+        "RelicTracker\\Localization\\ptb.loc",
+        "RelicTracker\\Localization\\rus.loc",
+        "RelicTracker\\Localization\\spa.loc",
+        "RelicTracker\\Localization\\tha.loc",
+        "RelicTracker\\Localization\\tur.loc",
+        "RelicTracker\\Localization\\zhs.loc",
         "RelicTracker\\RelicTracker.dll",
         "RelicTracker\\RelicTracker.json"
       ],
       "folder_name": "RelicTracker",
       "mod_id": "RelicTracker",
       "enabled": true,
-      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/RelicTracker_v1.18_13894ce0.zip",
-      "bundle_sha256": "13894ce06e8c958e0d4d05a3ee4f98fcbe4b3c0792bdc305f04d549e55a85266"
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/RelicTracker_v1.18_9f007696.zip",
+      "bundle_sha256": "9f00769640bdc0a0bd971bae876a8930c9671debbe9b001b73af2c06523dcb00"
     },
     {
       "name": "Mango Content",
@@ -363,9 +377,24 @@
       "enabled": true,
       "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/DefectOrbs_v0.1.0_253c2189.zip",
       "bundle_sha256": "253c2189bc7c605eef87390ae3214346c9dd32ed58bfc3c0f556e1b03899e4c8"
+    },
+    {
+      "name": "MultiEnchantmentMod",
+      "version": "v2.4.2",
+      "source": null,
+      "hash": "bc35e67fddec57ad76cf11280bb2c70add8bc0f142521b3cf8d8e1f39439bbd9",
+      "files": [
+        "MultiEnchantmentMod\\MultiEnchantmentMod.dll",
+        "MultiEnchantmentMod\\MultiEnchantmentMod.json"
+      ],
+      "folder_name": "MultiEnchantmentMod",
+      "mod_id": "MultiEnchantmentMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/MultiEnchantmentMod_v2.4.2_e95f6c49.zip",
+      "bundle_sha256": "e95f6c494b6056ac511db498270498b16fe28bec2f00d442753ffa17d5b1cbf4"
     }
   ],
   "created_at": "2026-05-16T00:13:22.502464100Z",
-  "updated_at": "2026-06-14T01:56:57.057815800Z",
+  "updated_at": "2026-06-17T02:50:57.851792Z",
   "public": false
 }
