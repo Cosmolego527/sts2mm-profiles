@@ -132,19 +132,18 @@
     },
     {
       "name": "PlayerColors",
-      "version": "v1.0.5",
+      "version": "v1.0.6",
       "source": null,
       "hash": "c8c8c016dcdfba09538bb8a173cac4e6b74149fe27538efd2d300057bdda1d9a",
       "files": [
         "PlayerColors\\PlayerColors.dll",
-        "PlayerColors\\PlayerColors.json",
-        "PlayerColors\\__folder_managed_by_vortex"
+        "PlayerColors\\PlayerColors.json"
       ],
       "folder_name": "PlayerColors",
       "mod_id": "PlayerColors",
       "enabled": true,
-      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/PlayerColors_v1.0.5_c59c716a.zip",
-      "bundle_sha256": "c59c716a5b0972c85aad4f7ed117837d515ccef8b71e8807cdd8139b19c761ce"
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/PlayerColors_v1.0.6_e855a5a7.zip",
+      "bundle_sha256": "e855a5a7e112e522f39a3b0273d55992a9525dab9199ebf21db24b92e692d27e"
     },
     {
       "name": "restsite_card_shared",
@@ -161,27 +160,6 @@
       "enabled": true,
       "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/restsite_card_shared_v106.1_5e014706.zip",
       "bundle_sha256": "5e0147063aa263a5ad454f842fc6de33cf4c2e5e06061cadf148ae61f4101d1e"
-    },
-    {
-      "name": "RitsuLib",
-      "version": "0.4.24",
-      "source": "github:BAKAOLC/STS2-RitsuLib",
-      "hash": "b786107f9561dfedaab65ab6095c244bf468fbe9a141b534c6ad4c8dba100351",
-      "files": [
-        "STS2-RitsuLib\\compat-target.txt",
-        "STS2-RitsuLib\\mod_manifest.json",
-        "STS2-RitsuLib\\STS2-RitsuLib.dll",
-        "STS2-RitsuLib\\STS2-RitsuLib.pdb",
-        "STS2-RitsuLib\\STS2-RitsuLib.xml",
-        "STS2-RitsuLib\\viewer\\assets\\index.css",
-        "STS2-RitsuLib\\viewer\\assets\\index.js",
-        "STS2-RitsuLib\\viewer\\index.html"
-      ],
-      "folder_name": "STS2-RitsuLib",
-      "mod_id": "STS2-RitsuLib",
-      "enabled": true,
-      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.4.24_821a0e90.zip",
-      "bundle_sha256": "821a0e90b8d34a1f3ab6a0eb6dd18e853e74277d82d7188ca3ab164da8284b57"
     },
     {
       "name": "Skip Vakuu Boon",
@@ -251,7 +229,7 @@
     },
     {
       "name": "Blessings",
-      "version": "v1.0.1",
+      "version": "v1.0.2",
       "source": null,
       "hash": "826b70e89ebd45939c6ca5b239585a3d00fc41694124864aa1e8af7568de1249",
       "files": [
@@ -263,8 +241,8 @@
       "folder_name": "Blessings",
       "mod_id": "Blessings",
       "enabled": true,
-      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/Blessings_v1.0.1_46103e43.zip",
-      "bundle_sha256": "46103e431842ad338897d037ac5340603da77eeda0f3c339b0ac01128f22507f"
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/Blessings_v1.0.2_ef6ec3e4.zip",
+      "bundle_sha256": "ef6ec3e44dbfa17c4754db1811b861322803b84cd7e76745d47abccee7dfd0fb"
     },
     {
       "name": "Calypso's Happy Hour / 卡里普索的欢乐时光",
@@ -282,12 +260,12 @@
       "folder_name": "CalypsosHappyHour",
       "mod_id": "CalypsosHappyHour",
       "enabled": true,
-      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/Calypso_s_Happy_Hour___._v1.2.0_74c9c013.zip",
-      "bundle_sha256": "74c9c0133c2e2cd3e39a4f14e30ef1cf29cbee604c6159f22289c123e2e00ab4"
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/Calypso_s_Happy_Hour___._v1.2.0_607d120b.zip",
+      "bundle_sha256": "607d120b98b17268d29f7a0f0155080536ec2def639d66a06972b100cb8ee0e5"
     },
     {
       "name": "Hades Ancients",
-      "version": "v0.1.1",
+      "version": "v0.1.5",
       "source": null,
       "hash": "87b5b8840c4e9bfb783f0acd3aa8919dbd7435ad32435a00d0e503050f011518",
       "files": [
@@ -299,8 +277,8 @@
       "folder_name": "HadesAncients",
       "mod_id": "HadesAncients",
       "enabled": true,
-      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/Hades_Ancients_v0.1.1_69f0cb2c.zip",
-      "bundle_sha256": "69f0cb2c8cc08e36f2fdc931d34091f6adaf12d40ffb2a9de0b18bed16f383c0"
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/Hades_Ancients_v0.1.5_364d9434.zip",
+      "bundle_sha256": "364d9434fcb195319ee7cd1baa324fd531d1c69b2a309245337e28e8fdbd816d"
     },
     {
       "name": "RelicTracker",
@@ -392,9 +370,25 @@
       "enabled": true,
       "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/MultiEnchantmentMod_v2.4.2_e95f6c49.zip",
       "bundle_sha256": "e95f6c494b6056ac511db498270498b16fe28bec2f00d442753ffa17d5b1cbf4"
+    },
+    {
+      "name": "Colin's Patch Kit",
+      "version": "v1.3.0",
+      "source": null,
+      "hash": "1c39a8c5b4e9428e31a348e576b4eb4b8b9a12934c51e37ec64376f166e7ed70",
+      "files": [
+        "ColinsPatchKit\\ColinsPatchKit.dll",
+        "ColinsPatchKit\\ColinsPatchKit.json",
+        "ColinsPatchKit\\ColinsPatchKit.pck"
+      ],
+      "folder_name": "ColinsPatchKit",
+      "mod_id": "ColinsPatchKit",
+      "enabled": true,
+      "bundle_url": "https://github.com/Cosmolego527/sts2mm-profiles/releases/download/bundles/Colin_s_Patch_Kit_v1.3.0_93064446.zip",
+      "bundle_sha256": "930644463c62f453b9a8748c523a1145105a2499f05b05058bbf322d7b9db8cc"
     }
   ],
   "created_at": "2026-05-16T00:13:22.502464100Z",
-  "updated_at": "2026-06-17T02:50:57.851792Z",
+  "updated_at": "2026-06-20T00:46:33.943468700Z",
   "public": false
 }
